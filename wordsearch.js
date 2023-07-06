@@ -1,3 +1,5 @@
+// worked with reyna roma and seni cole
+
 const wordSearch = (letters, word) => {
     if (!Array.isArray(letters) || letters.length === 0) {
       return "No word matrix";
